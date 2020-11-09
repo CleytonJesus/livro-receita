@@ -2,8 +2,5 @@
 
 Olá esse é o meu livro de receitas:
 
-- Uau
-- Op
-- Uia
-- 
+- Salada de batata
 
